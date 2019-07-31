@@ -1,2 +1,2 @@
 # COMSOL-Optical
-Collection of COMSOL Models Employed for Optical Studies
+Collection of COMSOL Models for Optical Studies
